@@ -1,0 +1,6 @@
+﻿  aStar.cpp
+d:\repos\astar\astar\astar.cpp(193): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+d:\repos\astar\astar\astar.cpp(207): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+d:\repos\astar\astar\astar.cpp(82): warning C4715: "znajdzPoleZMinWartF”: niewszystkie ścieżki kodu zwracają wartość
+  aStar.vcxproj -> D:\repos\aStar\Debug\aStar.exe
+  aStar.vcxproj -> D:\repos\aStar\Debug\aStar.pdb (Partial PDB)
